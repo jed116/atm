@@ -2,7 +2,7 @@ public class ATM {
     private int moneyTotal;
 
     public ATM() {
-        this.moneyTotal = 0;
+        moneyTotal = 0;
     }
 
     public int getMoneyTotal() {
